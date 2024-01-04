@@ -1,7 +1,8 @@
 repo_name: jpjcorreia/HandyControl
 report_id: 6d9b09f7a09c84901ca17eb941f6dee8
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T16:08:02+00:00'
+timestamp: '2024-01-04T15:03:17+00:00'
 requested_by: ghost1372
 provider: github
 branch: master
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: Installers/VS2019/HandyControl_VS2019/HandyControl_VS2019.csproj
-  detection_source: src/Net_GE45/HandyControl_Net_GE45/HandyControl_Net_GE45.csproj
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/Installers/VS2019/HandyControl_VS2019/HandyControl_VS2019.csproj
+  detection_source: Installers/VS2019/HandyControl_VS2019/HandyControl_VS2019.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-06-10 15:42:24.000000000 Z
 - name: C#
@@ -30,6 +31,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl
   detection_source: Repo Metadata
 - name: CoffeeScript
   description: A little language that compiles into JavaScript
@@ -41,7 +43,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1178/slQydAMv.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/gulpfile.coffee
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -54,6 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Templating Languages & Extensions
   image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/package.json
   detection_source: doc/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -66,7 +69,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: doc/themes/next/source/lib/jquery/index.js
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/source/js/affix.js
+  detection_source: doc/themes/next/source/js/affix.js
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
 - name: ".NET"
@@ -79,6 +83,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-04-05 14:23:19.000000000 Z
@@ -93,8 +98,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
-  detection_source: src/Core_30/HandyControl_Core_30/HandyControl_Core_30.csproj
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
+  detection_source: Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-08-19 15:13:17.000000000 Z
 - name: ASP.NET Core
@@ -108,8 +113,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
-  detection_source: src/Core_30/HandyControl_Core_30/HandyControl_Core_30.csproj
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
+  detection_source: Installers/VS2019/WpfCoreApp/ProjectTemplate.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-08-19 15:13:17.000000000 Z
 - name: jQuery
@@ -121,6 +126,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/bower.json
   detection_source: doc/themes/next/bower.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -132,6 +138,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl
   detection_source: Repo Metadata
 - name: JSHint
   description: A Static Code Analysis Tool for JavaScript
@@ -141,6 +148,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/1945/mzh2bRes_400x400.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -152,6 +160,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-04-05 14:23:19.000000000 Z
@@ -164,6 +173,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/.travis.yml
   detection_source: doc/themes/next/.travis.yml
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -176,6 +186,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Integrated Development Environment
   image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/Installers/VS2019/HandyControl_VS2019.sln
   detection_source: Installers/VS2019/HandyControl_VS2019.sln
   last_updated_by: NaBian
   last_updated_on: 2019-06-10 15:42:24.000000000 Z
@@ -189,7 +200,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/844/iruTC031.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -201,6 +212,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -212,6 +224,7 @@ tools:
   category: Design
   sub_category: Fonts
   image_url: https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/bower.json
   detection_source: doc/themes/next/bower.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -225,7 +238,7 @@ tools:
   category: Application Utilities
   sub_category: Static Site Generators
   image_url: https://img.stackshare.io/service/1154/mQZOTo9f.png
-  detection_source_url: doc/package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/package-lock.json
   detection_source: doc/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -239,7 +252,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17020/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -253,7 +266,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15920/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -267,7 +280,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16050/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -281,7 +294,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16370/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -295,7 +308,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15997/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: doc/package-lock.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/package-lock.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -316,7 +329,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16031/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: doc/themes/next/package.json
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/doc/themes/next/package.json
   detection_source: doc/themes/next/package.json
   last_updated_by: NaBian
   last_updated_on: 2019-04-10 14:28:09.000000000 Z
@@ -331,8 +344,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12915/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
-  detection_source_url: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
-  detection_source: src/Net_35/HandyControlDemo_Net_35/packages.config
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
+  detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-09-25 16:40:01.000000000 Z
 - name: MvvmLightLibs
@@ -345,8 +358,8 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13331/default_bac2e4378e5818ffa4955b20565842bac60d080a.png
-  detection_source_url: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
-  detection_source: src/Net_35/HandyControlDemo_Net_35/packages.config
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
+  detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-06-04 14:44:32.000000000 Z
 - name: Newtonsoft.Json
@@ -359,13 +372,19 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/nuget/image.png
-  detection_source_url: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
-  detection_source: src/Net_35/HandyControlDemo_Net_35/packages.config
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
+  detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: NaBian
   last_updated_on: 2019-04-05 14:23:19.000000000 Z
   vulnerabilities:
-  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
     cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
     cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
     detected_date: Jun 23
     severity: high
@@ -381,7 +400,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13280/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
-  detection_source_url: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
+  detection_source_url: https://github.com/jpjcorreia/HandyControl/blob/master/src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   detection_source: src/Core_30/HandyControlDemo_Core_30/HandyControlDemo_Core30.csproj
   last_updated_by: Mahdi Hosseini
   last_updated_on: 2019-09-28 18:23:13.000000000 Z
